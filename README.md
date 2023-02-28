@@ -1,6 +1,6 @@
 ###  Hello there! 👋
 
-Hi, i'm Vinícius Mendonça, actually working as a Developer intern at UTFPR - Cornélio Procópio.
+Hi, i'm Vinícius Mendonça, actually working as a Developer intern at Lojas Quero-Quero S.A.
 
 ###  Languages and Tools ⚙️
 
